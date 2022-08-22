@@ -1,0 +1,9 @@
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\bin\Debug\Unity Pathfinding API.dll
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\bin\Debug\Unity Pathfinding API.pdb
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\bin\Debug\UnityEngine.dll
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\bin\Debug\UnityEngine.xml
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\obj\Debug\Unity Pathfinding API.csproj.AssemblyReference.cache
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\obj\Debug\Unity Pathfinding API.csproj.CoreCompileInputs.cache
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\obj\Debug\Unity Pathfinding API.csproj.CopyComplete
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\obj\Debug\Unity Pathfinding API.dll
+C:\Users\zaids\source\repos\Unity Pathfinding API\Unity Pathfinding API\obj\Debug\Unity Pathfinding API.pdb
