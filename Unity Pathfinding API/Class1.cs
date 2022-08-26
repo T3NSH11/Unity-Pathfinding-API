@@ -132,7 +132,7 @@ namespace Unity_Pathfinding_API
                 node.IsObstacle = true;
             }
 
-            if (other.gameObject.CompareTag("Cripto"))
+            if (other.gameObject.CompareTag("Player"))
             {
                 pathfinder.TargetNode = node;
             }
@@ -341,15 +341,6 @@ namespace Unity_Pathfinding_API
                 return null;
         }
 
-        //public void CheckForObstacles(Node Origin, Node Node)
-        //{
-        //    RaycastHit hit;
-        //
-        //    if (Physics.Raycast(Origin.WorldPosition, (Node.WorldPosition - Origin.WorldPosition), out hit, Vector3.Distance(Origin.WorldPosition, Node.WorldPosition), LayerMask.NameToLayer("Obstacle")))
-        //    {
-        //        Node.IsObstacle = true;
-        //    }
-        //}
 
         public bool FollowPath(Stack<Vector3> Path, GameObject Object, float Speed)
         {
@@ -378,11 +369,7 @@ namespace Unity_Pathfinding_API
                 TargetPos = Path.Pop();
             }
 
-            Object.transform.LookAt(TargetPos);
-
-            //Object.transform.position = Vector3.MoveTowards(Object.transform.position, TargetPos, Speed * Time.deltaTime);
-            //Object.GetComponent<Rigidbody>().velocity += (TargetPos - Object.transform.position).normalized * (Speed * Time.deltaTime);
-            //Object.GetComponent<Rigidbody>().velocity = Vector3.ClampMagnitude(Object.GetComponent<Rigidbody>().velocity, Speed);
+            Object.transform.position = Vector3.MoveTowards(Object.transform.position, TargetPos, Speed * Time.deltaTime);
             return false;
         }
 
