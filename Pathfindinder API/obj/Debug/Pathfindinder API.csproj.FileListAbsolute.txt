@@ -1,0 +1,9 @@
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\bin\Debug\Pathfindinder API.dll
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\bin\Debug\Pathfindinder API.pdb
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\bin\Debug\UnityEngine.dll
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\bin\Debug\UnityEngine.xml
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\obj\Debug\Pathfindinder API.csproj.AssemblyReference.cache
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\obj\Debug\Pathfindinder API.csproj.CoreCompileInputs.cache
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\obj\Debug\Pathfindinder API.csproj.CopyComplete
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\obj\Debug\Pathfindinder API.dll
+C:\Users\zaids\source\repos\Pathfindinder API\Pathfindinder API\obj\Debug\Pathfindinder API.pdb
